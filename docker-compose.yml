@@ -16,7 +16,7 @@ services:
     #HoneyGain Configuration
     honeygain:
         image: honeygain/honeygain
-        command: -tou-accept -email 'YOUR_HONEYGAIN_EMAIL_ADDRESS' -pass 'YOUR_USER_HONEYGAIN_PASSWORD' -device EarningMachine
+        command: -tou-accept -email 'thomasedison2888@gmail.com' -pass 'Flayer_2313' -device EarningMachine
         restart: always
         networks:
             default:
